@@ -1,5 +1,6 @@
 public class Calculator
 {
+	int n1,n2;
 public static void main(String[] args)
 {
 Calculator calc= new Calculator();
